@@ -65,7 +65,6 @@ const getPhotos = () => {
   }
   return (
     <div className='wrapper'>
-      <button type='text' value='hello'></button>
       <div className='wrapper_content'>
         <h1 className='title'>Flickr Image Gallery</h1>
         <div className='search_container'>
